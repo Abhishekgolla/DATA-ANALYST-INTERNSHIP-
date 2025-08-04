@@ -1,4 +1,4 @@
-1. **TO Replace the null values**
+1. **To Replace the null values**
 Using Go To Special
 Select the column (or whole table).
 Press Ctrl + G (or F5) → Click Special.
