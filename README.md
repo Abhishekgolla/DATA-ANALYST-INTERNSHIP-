@@ -1,11 +1,11 @@
-1. **TO REPLACE THE NULL VALUES**
+1. **TO Replace the null values**
 Using Go To Special
 Select the column (or whole table).
 Press Ctrl + G (or F5) → Click Special.
 Choose Blanks → Click OK.
 Right-click any highlighted blank cell → Filled up the data (OR can DELETE the entire ROW)
 
-2. **TO REMOVE DUPLICATES**
+2. **To Remove Duplicates**
 Select the column (or whole table).
 Go to Data > Delete Duplicates.
 
