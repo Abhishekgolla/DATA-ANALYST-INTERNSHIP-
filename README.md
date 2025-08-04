@@ -22,3 +22,5 @@ Select Number.
 Choose a consistent format like 5000 OR 5000.oo.
 Set datatypes like CustomerID, Name in Text
 Click OK.
+
+After including other data cleaning the Excel sheet is pasted here.
